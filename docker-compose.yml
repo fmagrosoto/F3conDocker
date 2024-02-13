@@ -1,0 +1,19 @@
+version: "3.7"
+
+services:
+  f3condocker:
+    container_name: f3condocker
+    build:
+      dockerfile: ./docker/Dockerfile
+      context: .
+    restart: always
+    volumes:
+      - ".:/var/www"
+      - "./docker/local.ini:/usr/local/etc/php/conf.d/local.ini"
+    ports:
+      - "8000:80"
+
+networks:
+  default:
+    name: digitae
+    external: true
