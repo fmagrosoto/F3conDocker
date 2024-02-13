@@ -5,7 +5,7 @@
 ![Packagist](https://img.shields.io/badge/NodeJS-True-red.svg)
 ![Packagist](https://img.shields.io/badge/Docker-True-red.svg)
 ![Packagist](https://img.shields.io/badge/License-MIT-lightgrey.svg)
-![Packagist](https://img.shields.io/badge/Estabilidad-Beta-blue.svg)
+![Packagist](https://img.shields.io/badge/Estabilidad-stable-blue.svg)
 
 [![JavaScript Style Guide](https://cdn.rawgit.com/standard/standard/master/badge.svg)](https://github.com/standard/standard)
 
