@@ -1,0 +1,11 @@
+docker/
+docker-compose.yml
+.git
+node_modules/
+html/vendor/
+html/tmp
+.idea/
+LICENSE
+*.md
+.gitignore
+.editorconfig
