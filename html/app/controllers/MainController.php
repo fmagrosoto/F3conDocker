@@ -42,6 +42,11 @@ class MainController
     public function beforeroute($f3): void
     {
         $f3->set('prueba', 'Probando');
+
+        // Preparando las variables generales de todas las páginas
+        $f3->mset([
+            'scripts' => []
+        ]);
     }
 
     /**
