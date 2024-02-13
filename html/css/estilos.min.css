@@ -1,5 +1,5 @@
 /*!
- * Plataforma F3 con Docker v0.0.0 (https://tupagina.com)
+ * Plataforma F3 con Docker v1.0.0 (https://tupagina.com)
  * Copyright 2024
  * Este es otro proyecto de dIGITAE 
  */

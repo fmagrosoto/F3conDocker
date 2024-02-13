@@ -37,7 +37,7 @@
 require('vendor/autoload.php');
 // Cargamos en una variable global ($f3) el framework entero
 $f3 = Base::instance();
-const AMBIENTE = 'dev'; // ENUM('dev','prod')
+const AMBIENTE = 'prod'; // ENUM('dev','prod')
 
 // Organizamos nuestras variables globales y rutas en distintos
 // archivos, para poder mantener el proyecto de manera más fácil.
